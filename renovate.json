@@ -6,7 +6,4 @@
   "kubernetes": {
     "fileMatch": ["\\.yml$"]
   }
-  "helm": {
-    "fileMatch": ["\\.yml$"]
-  }
 }
